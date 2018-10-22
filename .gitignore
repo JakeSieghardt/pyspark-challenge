@@ -1,0 +1,4 @@
+src/.local/
+src/.jupyter/
+src/.ipython/
+src/work/.ipynb_checkpoints/

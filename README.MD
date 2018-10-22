@@ -8,4 +8,4 @@ To run this repo:
 1) Run docker-compose start on project root
 2) Open 127.0.0.1:8888
 3) Insert authorization token
-4) Open notebook in /work directory
+4) Open notebook in **/work directory**
