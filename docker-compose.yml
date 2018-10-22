@@ -1,0 +1,9 @@
+version: '3'
+services:
+  spark:
+    image: jupyter/pyspark-notebook
+    container_name: pyspark-challenge
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./code:/home/jovyan
